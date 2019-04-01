@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1499453914 source:d:\projects\pwbot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"console.h"
+	"char.h"
+	"utils.h"
+	"address.h"
+
+1499417256 source:d:\projects\pwbot\address.c
+	"address.h"
+
+1499418055 d:\projects\pwbot\address.h
+	<windows.h>
+
+1499455171 source:d:\projects\pwbot\char.c
+	"char.h"
+	"console.h"
+	"address.h"
+	"input.h"
+
+1499453883 d:\projects\pwbot\char.h
+	<windows.h>
+
+1499416934 d:\projects\pwbot\console.h
+	<stdio.h>
+	<windows.h>
+	"char.h"
+
+1499611253 d:\projects\pwbot\input.h
+	<windows.h>
+
+1499416936 source:d:\projects\pwbot\console.c
+	"console.h"
+
+1499455162 source:d:\projects\pwbot\input.c
+	"input.h"
+
+1499417038 d:\projects\pwbot\utils.h
+	<stdio.h>
+
+1499417019 source:d:\projects\pwbot\utils.c
+	"utils.h"
+
+1499417256 source:c:\users\hacker\desktop\project\pwbot\address.c
+	"address.h"
+
+1499418055 c:\users\hacker\desktop\project\pwbot\address.h
+	<windows.h>
+
+1499455171 source:c:\users\hacker\desktop\project\pwbot\char.c
+	"char.h"
+	"console.h"
+	"address.h"
+	"input.h"
+
+1499453883 c:\users\hacker\desktop\project\pwbot\char.h
+	<windows.h>
+
+1499416934 c:\users\hacker\desktop\project\pwbot\console.h
+	<stdio.h>
+	<windows.h>
+	"char.h"
+
+1499611253 c:\users\hacker\desktop\project\pwbot\input.h
+	<windows.h>
+
+1499416936 source:c:\users\hacker\desktop\project\pwbot\console.c
+	"console.h"
+
+1499455162 source:c:\users\hacker\desktop\project\pwbot\input.c
+	"input.h"
+
+1499417019 source:c:\users\hacker\desktop\project\pwbot\utils.c
+	"utils.h"
+
+1499417038 c:\users\hacker\desktop\project\pwbot\utils.h
+	<stdio.h>
+
